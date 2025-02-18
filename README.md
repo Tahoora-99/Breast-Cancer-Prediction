@@ -1,10 +1,12 @@
 # Breast-Cancer-Prediction
 Logistic Regression Model for Breast Cancer Detection
 This project utilizes Logistic Regression to predict cancer diagnoses using the Breast Cancer Dataset from Kaggle(https://www.kaggle.com/datasets/erdemtaha/cancer-data). The dataset contains 569 samples of cancerous cells, each characterized by 30 distinct features.
-Accuracy: % 98 which means the overall probability that the model correctly identifies the class of any given sample. ![image](https://github.com/user-attachments/assets/70e20228-9b3b-4b80-9a48-59620f37fc1f)
+Accuracy: % 98 which means the overall probability that the model correctly identifies the class of any given sample. 
+
+![image](https://github.com/user-attachments/assets/70e20228-9b3b-4b80-9a48-59620f37fc1f)
 
 
-🧠 ## Mathematical Interpretation of the Table
+## 🧠 Mathematical Interpretation of the Table
 
 To describe this table using mathematical notation, we can use conditional probabilities:
 
