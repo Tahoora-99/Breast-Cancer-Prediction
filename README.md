@@ -11,15 +11,15 @@ Accuracy: % 98 which means the overall probability that the model correctly iden
 To describe this table using mathematical notation, we can use conditional probabilities:
 
 Precision (Class 1): The conditional probability that a person truly has cancer given the model-predicted cancer:
-𝑃(Cancer∣Predicted Cancer)=0.98
+### 𝑃(Cancer ∣ Predicted Cancer)=0.98
 
 Recall (Class 1): The conditional probability that the model predicts cancer given the person actually has cancer:
-𝑃(Predicted Cancer∣Cancer)=0.98
+### 𝑃(Predicted Cancer ∣ Cancer)=0.98
 
 Precision (Class 0): The conditional probability that a person is healthy given the model predicted healthy:
-𝑃(Healthy∣Predicted Healthy)=0.99
+### 𝑃(Healthy ∣ Predicted Healthy)=0.99
 
 Recall (Class 0): The conditional probability that the model predicts healthy given the person is actually healthy:
-𝑃(Predicted Healthy∣Healthy)=0.99
+### 𝑃(Predicted Healthy ∣ Healthy)=0.99
 This model demonstrates a strong focus on minimizing false negatives, ensuring that patients who may have cancer are less likely to be overlooked.
 
